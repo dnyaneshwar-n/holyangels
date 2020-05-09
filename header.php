@@ -17,6 +17,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
 <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
 <link href="css/font-awesome.css" rel="stylesheet">  <!-- font-awesome icons --> 
+<link href="css/index.css" rel="stylesheet" type="text/css" media="all" /> <!-- filter css --> 
+<link rel="stylesheet" href="css/swipebox.css"> <!-- filter css -->
 <!-- //Custom Theme files -->
 <!-- js -->
 <script src="js/jquery-2.2.3.min.js"></script>   
@@ -73,7 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</ul>
 							</li> 
 
-							<li><a href="portfolio.html">Photo Gallery</a></li>
+							<li><a href="portfolio.php">Photo Gallery</a></li>
 							<li><a href="contact.php">Contact Us</a></li>			
 						</ul>		
 						<div class="clearfix"> </div>

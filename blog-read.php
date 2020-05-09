@@ -129,6 +129,11 @@
 			}
 
 		</style>
+
+<!-- banner -->
+	<div class="banner-1">
+	</div> 
+<!-- //banner -->
 		<section class="blog-post-area">
             <div class="container">
             	<div class="w3ls-title" style="padding-bottom: 40px;">

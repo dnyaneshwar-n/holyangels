@@ -1,5 +1,9 @@
 <?php include('header.php'); ?>
 
+<!-- banner -->
+	<div class="banner-1">
+	</div> 
+	<!-- //banner -->
 <!-- news -->
 	<div class="news">
 		<div class="container"> 
