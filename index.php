@@ -1,5 +1,5 @@
 
-<? include 'header.php'?>
+<?php include('header.php'); ?>
 	<!-- banner -->
 	<div class="banner">
 		<div class="container">
@@ -263,4 +263,4 @@
 		</div>
 	</div>
 	<!-- //news --> 
-<? include 'footer.php'?>
+<?php include('footer.php'); ?>
