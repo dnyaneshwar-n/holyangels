@@ -21,11 +21,11 @@
 					<div class="clearfix"> </div>
 				</form>
 				<ul class="w3l_footer_nav">
-					<li><a href="index.html">Home</a></li> 
-					<li><a href="about.html">About</a></li>
+					<li><a href="index.php">Home</a></li> 
+					<li><a href="about.php">About</a></li>
 					<li><a href="icons.html">Icons</a></li> 
 					<li><a href="portfolio.html">Portfolio</a></li>
-					<li><a href="contact.html">Contact Us</a></li>	
+					<li><a href="contact.php">Contact Us</a></li>	
 				</ul> 
 			</div>
 			<div class="clearfix"> </div>
