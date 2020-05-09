@@ -65,6 +65,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<ul class="nav navbar-nav navbar-left cl-effect-14">
 							<li><a href="index.php" class="active">Home</a></li>
 							<li><a href="about.php">About</a></li>
+							<li><a href="blog.php">Blog</a></li>
 							<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="icons.html">Web Icons</a></li>
