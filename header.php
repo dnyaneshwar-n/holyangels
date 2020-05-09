@@ -72,7 +72,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</ul>
 							</li> 
 
-							<li><a href="portfolio.html">Portfolio</a></li>
+							<li><a href="portfolio.html">Photo Gallery</a></li>
 							<li><a href="contact.php">Contact Us</a></li>			
 						</ul>		
 						<div class="clearfix"> </div>
