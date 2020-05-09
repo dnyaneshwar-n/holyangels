@@ -123,37 +123,38 @@
 	<div class="features">
 		<div class="container">
 			<div class="w3ls-title">
-				<h3 class="agileits-title">Features</h3> 
+				<h3 class="agileits-title">Facilities</h3>
+				<p>We help children discover and explore nature through creative art, craft, culture and sports while learning about the vast opportunities in the world around.</p>
 			</div>
 			<div class="features-agilerow">
 				<div class="col-sm-6 features-left">
 					<div class="features-w3grid">
 						<div class="col-xs-3 features-w3grid-left">
-							<i class="fa fa-heart-o" aria-hidden="true"></i>
+							<i class="fa fa-female service-icon" aria-hidden="true"></i>
 						</div>
 						<div class="col-xs-9 features-w3grid-right">
-							<h4>Itaque earum rerum </h4>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum </p>
+							<h4>E-LEARNING</h4>
+							<p>Students need to be engaged with what they are doing to improve learning outcomes. Enable students to become thinkers/learners/risk takers in a sheltered environment. Learn not to rely on the teacher…be accountable themselves…become independent !</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
 					<div class="features-w3grid features-w3grid-mdl">
 						<div class="col-xs-3 features-w3grid-left">
-							<i class="fa fa-cogs" aria-hidden="true"></i>
+							<i class="fa fa-desktop service-icon" aria-hidden="true"></i>
 						</div>
 						<div class="col-xs-9 features-w3grid-right">
-							<h4>Sapiente delectus</h4>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum </p>
+							<h4>COMPUTER LAB</h4>
+							<p>Computers play a vital role in every field. They aid industrial processes, they find application in medicine; they are the reason why software industries developed and flourished and they play an important role in education. This is also why the education system has made computer education a part of school curriculum.</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
 					<div class="features-w3grid">
 						<div class="col-xs-3 features-w3grid-left">
-							<i class="fa fa-line-chart" aria-hidden="true"></i>
+							<i class="fa fa-book service-icon" aria-hidden="true"></i>
 						</div>
 						<div class="col-xs-9 features-w3grid-right">
-							<h4>Itaque earum rerum </h4>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum </p>
+							<h4>LIBRARY</h4>
+							<p>A school library plays a great role in the life of a student. It is the store house of knowledge. In a library, students can find books on various subjects such as history, geography, environment, political science, literature, etc. A school library exhibits positive impact on the academic achievement of the student.</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
@@ -161,33 +162,33 @@
 				<div class="col-sm-6 features-left">
 					<div class="features-w3grid">
 						<div class="col-xs-3 features-w3grid-left">
-							<i class="fa fa-cogs" aria-hidden="true"></i>
+							<i class="fa fa-bus service-icon" aria-hidden="true"></i>
 						</div>
 							
 						<div class="col-xs-9 features-w3grid-right">
-							<h4>Itaque earum rerum </h4>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum </p>
+							<h4>BUS FACILITY</h4>
+							<p>Student transport is a fundamental component in the daily running of a school, but maintaining safe, roadworthy vehicles, providing a highly skilled and professional workforce, and managing the complex administration of a student transport service is a vast undertaking for school.</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
 					<div class="features-w3grid features-w3grid-mdl">
 						<div class="col-xs-3 features-w3grid-left">
-							<i class="fa fa-line-chart" aria-hidden="true"></i>
+							<i class="fa fa-hourglass-end service-icon" aria-hidden="true"></i>
 						</div>
 							
 						<div class="col-xs-9 features-w3grid-right">
-							<h4>Sapiente delectus</h4>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum </p>
+							<h4>SCIENCE LABORATORY</h4>
+							<p>It is also believed that laboratory teaching and experiments that are being conducted there help encourage deep understanding in children. It is also found that school science lab equipment and supplies make teaching and learning easy both for the teachers, as well as for the students.</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
 					<div class="features-w3grid">
 						<div class="col-xs-3 features-w3grid-left">
-							<i class="fa fa-heart-o" aria-hidden="true"></i>
+							<i class="fa fa-laptop" aria-hidden="true"></i>
 						</div>
 						<div class="col-xs-9 features-w3grid-right">
-							<h4>Itaque earum rerum </h4>
-							<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum </p>
+							<h4>TEACHER TRAINING COURSE</h4>
+							<p>It is so important for all teachers to have effective teacher training programs. The sad truth is that not all programs are created equal. To provide new teachers with the greatest chance of success, they need to have completed a teacher preparation program that provides them with knowledge, experience, and guidance.</p>
 						</div>
 						<div class="clearfix"> </div>
 					</div>
