@@ -159,7 +159,7 @@
                                 						echo "<div class='big-text'>";
 			                                    			echo"<h3><a href='#'>". $row['title'] ."</a></h3>";
 			                                    			echo"<p>". $row['body'] ."</p>";
-			                                    			$sql1 = "SELECT username from users where id =".$id;
+			                                    			$sql1 = "SELECT username from users where id =".$row['user_id'];
 			                                    			$result1 = mysqli_query($link, $sql1);
 			                                    			$row1 = mysqli_fetch_array($result1);
 			                                    			echo "<h4><span class='date'>". date('d M Y',strtotime($row['created_at'])) ."</span><span class='author'>Posted By: <b class='author-name'>".ucfirst($row1['username'])."</b></span>
