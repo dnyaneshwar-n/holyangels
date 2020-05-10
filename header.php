@@ -63,11 +63,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>
 					</div>
 					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">					
+					<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+						<?php 
+							// function to get the current page name
+							function PageName() {
+							  return substr($_SERVER["SCRIPT_NAME"],strrpos($_SERVER["SCRIPT_NAME"],"/")+1);
+							}
+
+							$current_page = PageName();
+						?>					
 						<ul class="nav navbar-nav navbar-left cl-effect-14">
-							<li><a href="index.php" class="active">Home</a></li>
-							<li><a href="about.php">About</a></li>
-							<li><a href="blog.php">Blog</a></li>
+							<li><a href="index.php" class="<?php echo $current_page == 'index.php' ? 'active':NULL ?>">Home</a></li>
+							<li><a href="about.php" class="<?php echo $current_page == 'about.php' ? 'active':NULL ?>">About</a></li>
+							<li><a href="blog.php" class="<?php echo $current_page == 'blog.php' ? 'active':NULL ?>">Blog</a></li>
 							<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="icons.html">Web Icons</a></li>
@@ -75,8 +83,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</ul>
 							</li> 
 
-							<li><a href="portfolio.php">Photo Gallery</a></li>
-							<li><a href="contact.php">Contact Us</a></li>			
+							<li><a href="portfolio.php" class="<?php echo $current_page == 'portfolio.php' ? 'active':NULL ?>">Photo Gallery</a></li>
+							<li><a href="contact.php" class="<?php echo $current_page == 'contact.php' ? 'active':NULL ?>">Contact Us</a></li>			
 						</ul>		
 						<div class="clearfix"> </div>
 					</div><!-- //navigation -->
