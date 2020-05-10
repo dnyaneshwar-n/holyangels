@@ -32,7 +32,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<nav class="navbar navbar-default">
 			<div class="container">
 				<div class="navbar-header navbar-left wthree">
-					<h1><a href="index.html"><img src="images/HOLY ANGEL DAIRY 2018.jpg"/ height="100px"></a></h1>
+					<h1><a href="index.html"><img src="images/logo.jpg" height="100px"></a></h1>
 				</div>
 				<!-- navigation -->
 				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -43,7 +43,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				</button>
 				<div class="header-right wthree">
 					<div class="top-nav-text">
-						<p>Call Us: <span>+00 111 2222 333</span></p>
+						<p>Call Us: <span>+91 8308614333</span></p>
 						<div id="sb-search" class="sb-search">
 							<form action="#" method="post">
 								<input type="search" class="sb-search-input" name="Search" placeholder="Enter your search term..." id="search" required="">
