@@ -17,6 +17,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <link href="css/bootstrap.css" type="text/css" rel="stylesheet" media="all">
 <link href="css/style.css" type="text/css" rel="stylesheet" media="all">
 <link href="css/font-awesome.css" rel="stylesheet">  <!-- font-awesome icons --> 
+<link href="css/index.css" rel="stylesheet" type="text/css" media="all" /> <!-- filter css --> 
+<link rel="stylesheet" href="css/swipebox.css"> <!-- filter css -->
 <!-- //Custom Theme files -->
 <!-- js -->
 <script src="js/jquery-2.2.3.min.js"></script>   
@@ -65,6 +67,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<ul class="nav navbar-nav navbar-left cl-effect-14">
 							<li><a href="index.php" class="active">Home</a></li>
 							<li><a href="about.php">About</a></li>
+							<li><a href="blog.php">Blog</a></li>
 							<li><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages <span class="caret"></span></a>
 								<ul class="dropdown-menu">
 									<li><a href="icons.html">Web Icons</a></li>
@@ -72,7 +75,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</ul>
 							</li> 
 
-							<li><a href="portfolio.html">Photo Gallery</a></li>
+							<li><a href="portfolio.php">Photo Gallery</a></li>
 							<li><a href="contact.php">Contact Us</a></li>			
 						</ul>		
 						<div class="clearfix"> </div>
